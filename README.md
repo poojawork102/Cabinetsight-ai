@@ -2,7 +2,6 @@
 
 **AI-Powered Electrical Cabinet Quality Control Inspector**
 
-> VIT Code Apex 3.0 | Emerson Problem Statement #03
 
 ---
 
@@ -69,8 +68,8 @@ The training pipeline is implemented in `backend/training/train_yolo.py` with th
 
 ```bash
 # Clone
-git clone https://github.com/poojawork102/CabinetSight-AI-Project.git
-cd CabinetSight-AI-Project
+git clone https://github.com/poojawork102/Cabinetsight-ai.git
+cd Cabinetsight-ai
 
 # Install dependencies
 pip install -r requirements.txt
@@ -129,4 +128,3 @@ QCSight/
 
 ---
 
-*Built for VIT Code Apex 3.0 — Emerson Problem Statement #03*
